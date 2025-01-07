@@ -4,4 +4,4 @@ Kassandra Spacek
 Created an API endpoint that receives user input and outputs a personalized greeting
 
 
-Reviewed by:
+Reviewed by: Tanush Kumar Nice Work. Good Job!
